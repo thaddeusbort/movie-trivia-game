@@ -1,0 +1,102 @@
+{
+    "name": "Tolkien Trivia",
+    "questions": [
+        {
+            "question": "How much older is Bilbo than Frodo?",
+            "postVideo": "bilbo-birthday-speech.mp4",
+            "answer": "When Bilbo turns 111, Frodo is 33. Bilbo is 78 years older."
+        },
+        {
+            "question": "Who had the One Ring for the longest period?",
+            "answer": "Gollum"
+        },
+        {
+            "question": "How many rings of power were forged?",
+            "postVideo": "rings-of-power.mp4",
+            "answer": "3 rings for the Elves + 7 for the Dwarves + 9 for Men + the One Ring = 20 Rings",
+            "timer": 30
+        },
+        {
+            "question": "What fake name did Frodo use after departing the Shire?",
+            "postVideo": "underhill.mp4",
+            "answer": "Mr. Underhill."
+        },
+        {
+            "question": "What frightened the Orcs in the Mines of Moria?",
+            "postVideo": "balrog.mp4",
+            "answer": "The Balrog."
+        },
+        {
+            "question": "What is the name of Sam's favorite pony?",
+            "postVideo": "bill-the-pony.mp4",
+            "answer": "Bill."
+        },
+        {
+            "question": "What are the names of the two towers?",
+            "postVideo": "",
+            "answer": "Orthanc and Minas Morgul."
+        },
+        {
+            "question": "Name all thirteen dwarves that accompanied Bilbo on his journey.",
+            "postVideo": "dwarves.mp4",
+            "answer": "Dwalin, Balin, Fili, Kili, Dori, Nori, Ori, Oin, Gloin, Bifur, Bofur, Bombur, and Thorin.",
+            "timer": 30
+        },
+        {
+            "question": "Name the five armies that took part in the Battle of the Five Armies.",
+            "postVideo": "five-armies.mp4",
+            "answer": "Elves, Men, Dwarves, Goblins, and Wargs. (Bonus points: Eagles)",
+            "timer": 30
+        },
+        {
+            "question": "Where was the One Ring forged?",
+            "postVideo": "one-ring.mp4",
+            "answer": "In the fires of Mount Doom."
+        },
+        {
+            "question": "How does Gandalf escape from Isengard?",
+            "postVideo": "escape-from-isengard.mp4",
+            "answer": "Gandalf escapes with the help of a moth and Gwahir the eagle."
+        },
+        {
+            "question": "What are Merry and Pippin's full names?",
+            "postVideo": "giant-dragon-firework.mp4",
+            "answer": "Meriadoc Brandybuck and Peregrin Took."
+        },
+        {
+            "question": "What people does Aragorn belong to?",
+            "postVideo": "strider.mp4",
+            "answer": "The Rangers."
+        },
+        {
+            "question": "What is the secret word to get through the door to enter the Mines of Moria?",
+            "postVideo": "speak-friend-and-enter.mp4",
+            "answer": "The Elvish word for Friend, Mellon."
+        },
+        {
+            "question": "What is the name of Gandalf's horse?",
+            "postVideo": "shadowfax.mp4",
+            "answer": "Shadowfax."
+        },
+        {
+            "question": "What is the name of Frodo's sword?",
+            "postVideo": "sting.mp4",
+            "answer": "Sting."
+        },
+        {
+            "question": "What is special about Mithril?",
+            "postVideo": "mithril.mp4",
+            "answer": "It is as light as a feather and as hard as dragon scales."
+        },
+        {
+            "question": "How does Gandalf ask Rohan for help?",
+            "postVideo": "beacons.mp4",
+            "answer": "By lighting the beacons."
+        },
+        {
+            "question": "Where do the Orcs take Merry and Pippin?",
+            "postVideo": "hobbits-to-isengard.mp4",
+            "answer": "Isengard."
+        }
+    ]
+}
